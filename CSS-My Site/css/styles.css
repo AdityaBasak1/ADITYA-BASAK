@@ -1,0 +1,106 @@
+h1 {
+  text-align: center;
+  font-family: 'impact', sans-serif;
+  font-size: 562%;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'impact', sans-serif;
+}
+
+h3 {color:#816797;}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'montserrat', sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    height: 0px;
+    width: 20%;
+    border-width: 7px;
+    }
+
+.top-container {
+  background-color: #EBFFFA;
+  position: relative;
+  padding-top: 120px;
+  height: 700px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.middle-container {
+  display: inline-block;
+  width: 60%;
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+  display: inline-block;
+  width: 100%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-color: #66BFBF;
+  font-family: 'montserrat', sans-serif;}
+
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: -moz-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: -ms-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: -o-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: linear-gradient(to bottom, #66BFBF, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 12px 20px 12px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-me {}
+.copyright {font-size: 0.75rem;
+            padding:20px;}
+.face-img {
+  border-radius: 50%;
+}
+.mountain {margin-top: 67px;}
+.pro {
+  color: red;
+}
+.profile {margin: 100px auto 100px auto;
+          line-height: 1.5}
+.skill-row {margin: 100px auto 100px auto;
+           text-align: left;
+           line-height: 2;}
+.top-cloud {
+  position: absolute;
+  left: 62%;
+  top: 15%;
+}
+.CODING-description {clear: left;}
+.CIVENG-description {clear: right;}
+#skills-img {border-radius: 50%;
+            width: 50%;
+            float: left;
+            }
+#BEng-img {border-radius: 50%;
+            width: 25%;
+            float: right;
+            margin: 30px;}
